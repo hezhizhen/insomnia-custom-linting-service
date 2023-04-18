@@ -1,0 +1,1 @@
+# insomnia-custom-linting-service
